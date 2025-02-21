@@ -5,7 +5,7 @@ Apple landingpage using HTML , CSS, and JS in Fast Campus Course
 
 ## Demo
 
-[Apple Landingpage](https://aztrumadev-portfolio-landingpage-1.netlify.app/)
+[Apple Landingpage](https://aztrumadev-portofolio-landingpage-1.netlify.app/)
 
 
 ## Screenshots
